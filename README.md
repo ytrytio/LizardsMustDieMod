@@ -1,4 +1,3 @@
-ПИЗДААААААААААА!!!!!!!!!!
 # Mindustry Java Mod Template
 A Java Mindustry mod template that works on Android and PC. The Kotlin version of this mod can be seen [here](https://github.com/Anuken/MindustryKotlinModTemplate).
 
@@ -37,4 +36,4 @@ Only use `implementation` if you want to package another Java library *with your
 --- 
 
 *[1]* *On Linux/Mac it's `./gradlew`, but if you're using Linux I assume you know how to run executables properly anyway.*  
-*[2]: Yes, I know this is stupid. It's a Github UI limitation - while the jar itself is uploaded unzipped, there is currently no way to download it as a single file.*
+*[2]: Skibidi dop yes, I know this is stupid. It's a Github UI limitation - while the jar itself is uploaded unzipped, there is currently no way to download it as a single file.*
