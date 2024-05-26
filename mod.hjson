@@ -1,0 +1,8 @@
+displayName: "Lizards Must Die"
+name: "lizards-must-die"
+author: "[#C0FFEE]Acemany[], [#00ff00]GLOR[], IvanDem, [blue]Samuel[]"
+main: "lmd.LizardsMustDie"
+description: "Это описание мода. Здесь будет описан контент мода."
+version: 1.0
+minGameVersion: 145
+java: true
